@@ -1,5 +1,5 @@
 # minitalk
-Basic C program for communication.
+Basic C program for communication, from 42project.
 
 
         ,----,                                                                   
