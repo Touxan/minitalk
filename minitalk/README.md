@@ -1,8 +1,3 @@
 # minitalk
-Basic C program for communication, from 42project. \n 
-################################
-# ___ ____ _  _ _  _ ____ _  _ #
-#  |  |  | |  |  \/  |__| |\ | #
-#  |  |__| |__| _/\_ |  | | \| #
-#                              #
-################################
+Basic C program for communication, from 42project.
+
